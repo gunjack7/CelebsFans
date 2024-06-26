@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://openinapp.link/selena7`
+					`https://embitterlorrycar.com/h5vs3rk6it?key=012f226fb522ce016a2cce5ffe14d293`
 				}`,
 			},
 		};
